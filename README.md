@@ -10,7 +10,7 @@ Part 2: Thursday, March 17 at 11:59 PM
 ### Part 1 
 We've explored quite a bit of iOS development, and learned how to make simple
 apps. Continuing this trend, we are going to make a full-on iOS Hangman game.
-This part of the assignment involved dealing with some preliminiaries and
+This part of the assignment involves dealing with some preliminiaries and
 setting up some of the first steps for creating the Hangman game.
 
 ### Part 2 
@@ -18,7 +18,8 @@ In Part 1, we built the framework for our Hangman game, but not the logic. In
 Part 2, you'll be putting everything together into a well-designed and
 fully-functional application.  Note that while many of the required features for
 Part 2 have already been implemented in Part 1, some requirements have changed
-or been refined. These are all noted in the Instructions.
+or been refined. These are all noted in the corresponding Instructions section
+below.
 
 ## Instructions 
 **Create a Hangman App (Part 1)**
