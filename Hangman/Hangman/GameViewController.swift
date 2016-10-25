@@ -15,7 +15,7 @@ class GameViewController: UIViewController {
 
         // Do any additional setup after loading the view.
         let hangmanPhrases = HangmanPhrases()
-        var phrase = hangmanPhrases.getRandomPhrase()
+        let phrase = hangmanPhrases.getRandomPhrase()
         print(phrase)
     }
 
