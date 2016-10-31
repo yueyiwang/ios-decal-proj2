@@ -13,7 +13,7 @@ We have provided you code to interact with the list of phrases, but you will imp
 
 You **must** have these views and features. 
 
-###  Start Screen View
+###  Start Screen View 
 - [ ] A UILabel with the name of the game
 - [ ] A "New Game" Button (takes you to Game View)
 
@@ -39,3 +39,10 @@ You **must** have these views and features.
 1. A smart way for the user to guess letters (since a TextField for letter entry is bad UX)
 2. Customized design, including, but not limited to, custom images for the Hangman states
 3. Anything else that you think will impress us!
+
+## Grading
+
+If you satisfy all of the requirements you will get full credit. Every requirement missed will have 1 point removed from your total score.
+
+The total score is out of 4, and students with the top submissions are eligible to receive one extra-credit point (5/4). These students have the option to have their resumes referred to Apple University recruiting.
+
